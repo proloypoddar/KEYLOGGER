@@ -1,0 +1,6 @@
+[Key.cmd]note
+hello[Key.space]i[Key.space]a[Key.space][Key.backspace]m[Key.space]proloy[Key.shift_r]
+j[Key.backspace]g
+[Key.backspace]how[Key.space]are[Key.space]you
+hello
+[Key.esc]
